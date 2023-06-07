@@ -114,10 +114,10 @@ params:
     title: Is this the best course?
     url: blogs
 
-<!-- -->
-```
-markup: 
-  goldmark: 
-    renderer: 
-      unsafe: true
-```
+#<!-- -->
+#```
+#markup: 
+#  goldmark: 
+#    renderer: 
+#      unsafe: true
+#```
