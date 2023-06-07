@@ -1,7 +1,7 @@
 ---
-title: "This is my website"
-author: "Peter Szkolnik"
-date: 2023-06-007T15:00:00-05:00
+title: "Hello Peter"
+author: "Frida Gomam"
+date: 2020-12-01T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -33,5 +33,5 @@ pie(
   c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
   col = c('#0292D8', '#F7EA39', '#C4B632'),
   init.angle = -50, border = NA
-)
+
 ```
